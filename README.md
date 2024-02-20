@@ -2,7 +2,7 @@
 - 👀 I’m interested in astrophotography, physics, machine learning, and computer science. 
 - 🌱 I’m currently learning MIPS assembly language 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email at Jack.brewster@furman.edu 
+- 📫 How to reach me: email at Jack.brewster@furman.edu 
 - ⚡ Fun fact: ...
 
 <!---
